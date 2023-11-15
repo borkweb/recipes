@@ -1,6 +1,6 @@
 # Flour Tortillas
 
-![Tortillas](/img/tortillas.jpg)
+<img src="/img/tortillas.jpg" width="250"/>
 
 Makes 8-10 tortillas depending on the size.
 
