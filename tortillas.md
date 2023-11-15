@@ -1,5 +1,7 @@
 # Flour Tortillas
 
+![Tortillas](/img/tortillas.jpg)
+
 Makes 8-10 tortillas depending on the size.
 
 While my ingredients are slightly different, the dough texture and the technique is well represented in [this video](https://youtu.be/BSQNPWi-zxc?si=UnYqbLjMvtukzTwz).
